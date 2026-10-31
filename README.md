@@ -1,7 +1,7 @@
 # fundamentos-python
 Repositório dedicado ao estudo e à prática dos conceitos fundamentais da linguagem Python.
 ## 📌 Projetos incluídos:
-- calculadora.py: Operações matemáticas básicas.
+- multiplicador.py: Multiplicação simples de dois números inseridos pelo usuário.
 - calculando_real_em_dolar.py: Conversão de câmbio de BRL para USD.
 - calcular_pintura.py: Cálculo de área e rendimento de tinta.
 - calculo_de_salario_com_aumento.py: Aplicação de percentagem de aumento salarial.
